@@ -22,7 +22,7 @@ uses
   LSUtils, MD5, SHA1, SysUtils;
 
 type
-  TLSPwsGenAmount = 2..10;
+  TLSPwsGenAmount = 2..255;
 
 { Generate MD5 string from a string. (see: http://en.wikipedia.org/wiki/MD5) }
 function LSMD5(const AString: string): string;
