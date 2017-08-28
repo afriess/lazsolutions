@@ -1,3 +1,7 @@
+# NOTICE
+
+**I can not continue working at this project, so I am going to discontinue it and delete its repository. Please do your own copy and fill free to continue it by your own!**
+
 LazSolutions framework, Version 0.2.0
 Copyright (C) 2010-2012 Silvio Clecio.
 
